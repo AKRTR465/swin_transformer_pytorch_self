@@ -1,2 +1,2 @@
 # swin_transformer_pytorch_self
-swin_transformer的实验，使用自定义花分类数据集训练
+swin_transformer的实现，使用自定义花分类数据集训练
